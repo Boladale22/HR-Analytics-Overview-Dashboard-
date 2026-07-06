@@ -1,4 +1,3 @@
-# HR-Analytics-Dashboard
 HR Analytics Dashboard built using Power BI to analyze employee attrition, workforce demographics, job satisfaction, and performance.
 # HR Analytics Dashboard
 
@@ -36,22 +35,43 @@ The dataset contains employee information including:
 
 ---
 
+
 ## Dashboard Pages
 
 ### Home Dashboard
-Displays key HR KPIs, employee distribution, and overall workforce overview.
+Provides an overview of the organization's workforce through key HR metrics, including total employees, attrition rate, average age, and employee distribution across departments.
 
 ### Details Dashboard
-Provides detailed analysis by department, gender, education, salary, and job role.
+Offers detailed insights into employee demographics, salary distribution, education level, job roles, gender, and other workforce characteristics.
 
 ### Action Dashboard
-Highlights key drivers of employee attrition and supports strategic HR actions.
-
-### Recommendations
-Provides practical recommendations to reduce employee attrition and improve employee satisfaction.
+Highlights the key drivers of employee attrition by analyzing factors such as overtime, years since last promotion, job satisfaction, and work-life balance. This page helps HR managers identify areas that require immediate attention to improve employee retention.
 
 ---
 
+
+## Key Insights
+
+- Employees working overtime showed a higher likelihood of attrition.
+- Certain departments experienced higher employee turnover than others.
+- Job satisfaction had a significant impact on employee retention.
+- Employees with fewer years since their last promotion were more likely to leave.
+- Workforce demographics revealed patterns that can support better HR planning.
+
+  ---
+
+  
+  ## Business Impact
+
+This dashboard enables HR professionals and business leaders to:
+- Monitor employee attrition trends.
+- Identify factors affecting employee retention.
+- Support strategic workforce planning.
+- Improve employee engagement and satisfaction.
+- Make informed, data-driven HR decisions.
+  ---
+
+  
 ## Key KPIs
 
 - Total Employees
@@ -88,3 +108,4 @@ Provides practical recommendations to reduce employee attrition and improve empl
 
 Boladale Hajarat Toyosi
 Data Analyst | Statistician
+
